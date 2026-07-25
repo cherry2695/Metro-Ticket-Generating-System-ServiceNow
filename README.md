@@ -6,8 +6,6 @@
 
 ![Platform](https://img.shields.io/badge/Platform-ServiceNow-3C4E93?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-Transportation-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 [Features](#-features) · [Screenshots & Demo](#-screenshots--demo) · [Architecture](#-architecture) · [Setup](#-setup-guide) · [Documentation](#-documentation)
 
@@ -39,9 +37,9 @@ The **Metro Ticket Generating System** replaces manual, counter-based metro tick
 |:---:|:---:|
 | ![Metro Request](./Project%20Demo/Metro_request.png) | ![Metro Table](./Project%20Demo/Metro_Table.png) |
 
-| Operations Dashboard | GitLab / Source Control View |
+| Operations Dashboard | Service Catalog |
 |:---:|:---:|
-| ![Metro Dashboard](./Project%20Demo/Metro_Dashboard.png) | ![Metro GitLab](./Project%20Demo/Metro_GitLab.png) |
+| ![Metro Dashboard](./Project%20Demo/Metro_Dashboard.png) | ![Metro GitLab](./Project%20Demo/Service_Catalog.png) |
 
 </div>
 
